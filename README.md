@@ -3,7 +3,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi 👋, I'm Mayank Malhotra</h1>
-<h3 align="center">An Computer Science Undergraduate Student</h3>
+<h3 align="center">A Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank29malhotra&label=Profile%20views&color=0e75b6&style=flat" alt="mayank29malhotra" /> </p>
 
