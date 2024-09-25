@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **Fluttter and Android Development**
+- 🌱 I’m currently learning **C# and .Net Framework**
 
 - 👨‍💻 All of my projects are available at [https://mayank29malhotra.github.io/My_Resume/](https://mayank29malhotra.github.io/My_Resume/)
 
