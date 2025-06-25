@@ -11,11 +11,9 @@
 
 
 
-- 🌱 I’m currently learning **C# and .Net Framework**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning and Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://mayank29malhotra.github.io/My_Resume/](https://mayank29malhotra.github.io/My_Resume/)
-
-- 💬 Ask me about **Android Development, Flutter, Java**
+- 💬 Ask me about **Android Development, Flutter, Java, Python, Artificial Intelligence and GenAI**
 
 - 📫 How to reach me **mayank29malhotra@gmail.com**
 
